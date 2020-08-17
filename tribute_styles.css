@@ -1,0 +1,53 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  line-height: 1.5;
+  text-align: center;
+  color: rgb(240, 237, 234);
+  background-color: #0f0f0f;
+  justify-content: center;
+  margin: 0;
+}
+
+figure {
+  padding: 16px;
+  background: #141414;
+  margin: 16px;
+  border-radius: 16px;
+}
+
+img {
+  display: block;
+  height: auto;
+  width: 95%;
+  max-width: 809px;
+  margin: auto;
+  border-radius: 12px;
+  text-align: center;
+}
+
+figcaption {
+  margin: 12px;
+  padding: 0 12px;
+}
+
+#tribute-info {
+  margin: 0 auto;
+  font-family: "Raleway", sans-serif;
+  margin: 0 auto;
+  max-width: 600px;
+  width: 90%;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0%;
+}
+
+li {
+  margin: 16px 0;
+  padding: 16px;
+  text-align: justify;
+  background-color: #141414;
+  border-radius: 6px;
+  box-shadow: 0 6px 10px #202020;
+}
